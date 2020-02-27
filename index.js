@@ -1,2 +1,2 @@
 // Write your code here!
-document.removeChild('')
+main.remove(); 
